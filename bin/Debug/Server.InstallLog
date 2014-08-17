@@ -1,0 +1,201 @@
+﻿Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła ComServer.
+Podczas fazy wycofywania instalatora System.Diagnostics.EventLogInstaller wystąpił wyjątek.
+System.Security.SecurityException: Nie znaleziono źródła, ale nie można przeszukać niektórych lub wszystkich dzienników zdarzeń. Niedostępne dzienniki: Security.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Podczas fazy wycofywania instalatora System.ServiceProcess.ServiceProcessInstaller wystąpił wyjątek.
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Podczas fazy wycofywania instalatora System.ServiceProcess.ServiceProcessInstaller wystąpił wyjątek.
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła ComServer.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła ComServer.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła ComServer.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła ComServer.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła ComServer.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Usługa ComServer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Odinstalowywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Usuwanie źródła EventLog ComServer.
+Trwa usuwanie usługi ComServer z systemu...
+Usługa ComServer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Wycofywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Usługa ComServer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Odinstalowywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Usuwanie źródła EventLog ComServer.
+Trwa usuwanie usługi ComServer z systemu...
+Usługa ComServer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Usługa ComServer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Odinstalowywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Usuwanie źródła EventLog ComServer.
+Trwa usuwanie usługi ComServer z systemu...
+Usługa ComServer została pomyślnie usunięta z systemu.
+Instalowanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Trwa instalowanie usługi ComServer...
+Usługa ComServer została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog ComServer w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Odinstalowywanie zestawu 'C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.InstallLog
+   assemblypath = C:\Users\FullMetaller\Documents\ServeringClient\Server\bin\Debug\Server.exe
+Usuwanie źródła EventLog ComServer.
+Trwa usuwanie usługi ComServer z systemu...
+Usługa ComServer została pomyślnie usunięta z systemu.
